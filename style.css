@@ -1,0 +1,51 @@
+.container{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    margin: auto;
+}
+#inputGender{
+    position: relative;
+    width: 20%;
+    height: 40px;
+    border-right: 1px solid red;
+    border-bottom: 1px solid red;
+    border-top: 1px solid steelblue;
+    border-left: 1px solid steelblue;
+    border-radius: 10px;
+    padding: 3px;
+    font-size: 15px;
+
+}
+#sendGender{
+    position: relative;
+    width: 10%;
+    height: 40px;
+    padding: 5px;
+    background: rgba(255, 166, 0, 0.711);
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 5px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 5px;
+    font-weight: 500;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    display: flex;
+    text-align: center;
+}
+.card img {
+    max-width: 100px;
+    border-radius: 10px;
+}
+#cardsContainer{
+    display: flex;
+}
+#cardsContainer  img{
+    max-width: 100px;
+    border-radius: 50%;
+}
