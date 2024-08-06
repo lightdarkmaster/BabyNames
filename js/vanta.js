@@ -1,6 +1,6 @@
 var setVanta = ()=>{
     if (window.VANTA) window.VANTA.NET({
-      el: ".body .s-section-1 .s-section",
+      el: " .body .s-section-1 .s-section",
       mouseControls: true,
       touchControls: true,
       gyroControls: false,
