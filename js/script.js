@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function() {
                         card.className = 'card';
 
                         const img = document.createElement('img');
-                        img.src = './baby_logo.jpg'; // Placeholder image URL
+                        img.src = './img/baby_logo.jpg'; // Placeholder image URL
                         img.alt = name;
 
                         const nameText = document.createElement('p');
