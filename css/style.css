@@ -41,9 +41,6 @@
     max-width: 100px;
     border-radius: 10px;
 }
-#cardsContainer{
-    display: flex;
-}
 #cardsContainer  img{
     max-width: 100px;
     border-radius: 50%;
