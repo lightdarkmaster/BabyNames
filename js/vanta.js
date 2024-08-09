@@ -14,3 +14,5 @@ var setVanta = ()=>{
       setVanta()
       window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
     })
+
+// Need to fix this issues ASAP
