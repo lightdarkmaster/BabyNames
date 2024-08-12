@@ -1,3 +1,8 @@
+body{
+    background-image: url(../img/baby_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
 .container{
     position: relative;
     text-align: center;
