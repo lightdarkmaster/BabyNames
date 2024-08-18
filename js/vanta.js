@@ -18,3 +18,4 @@ var setVanta = ()=>{
 // Need to fix this issues ASAP
 // Scale need to opt..
 //Not Working as of the moment..
+//Todo: all this
