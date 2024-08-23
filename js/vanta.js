@@ -14,9 +14,3 @@ var setVanta = ()=>{
       setVanta()
       window.edit_page.Event.subscribe( "Page.beforeNewOneFadeIn", setVanta )
     })
-
-// Need to fix this issues ASAP
-// Scale need to opt..
-//Not Working as of the moment..
-//Todo: all this
-//Sched undefine..
